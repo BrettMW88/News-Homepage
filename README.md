@@ -7,4 +7,5 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Javascript
 
